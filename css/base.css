@@ -1,0 +1,18 @@
+h1 {
+  margin-bottom: 20px;
+}
+
+img.nicole {
+  float: left;
+  height: 440px;
+  margin: 0 24px 0 0;
+  width: 440px;
+}
+
+p {
+  margin-left: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
